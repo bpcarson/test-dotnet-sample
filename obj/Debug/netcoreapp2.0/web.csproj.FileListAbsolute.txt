@@ -1,0 +1,11 @@
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/web.deps.json
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/web.runtimeconfig.json
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/web.runtimeconfig.dev.json
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/web.dll
+/projects/dotnetweb/bin/Debug/netcoreapp2.0/web.pdb
+/projects/dotnetweb/obj/Debug/netcoreapp2.0/web.csproj.CoreCompileInputs.cache
+/projects/dotnetweb/obj/Debug/netcoreapp2.0/web.AssemblyInfoInputs.cache
+/projects/dotnetweb/obj/Debug/netcoreapp2.0/web.AssemblyInfo.cs
+/projects/dotnetweb/obj/Debug/netcoreapp2.0/web.dll
+/projects/dotnetweb/obj/Debug/netcoreapp2.0/web.pdb
